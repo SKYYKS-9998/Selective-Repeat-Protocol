@@ -1,0 +1,27 @@
+000.000 =============================================================
+000.000                     Station B                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-05
+000.000 Log file "datalink-B.log", TCP port 59144, debug mask 0x00
+000.000 Station B is connecting station A (TCP port 59144) ... Done.
+000.211 New epoch: Thu Jun  9 17:56:26 2022
+000.211 =================================================================
+000.211 
+000.211 Designed by Zheng Yuheng, build: May  2 2022  22:07:41
+002.601 .... 8 packets received, 7714 bps, 96.42%, Err 0 (0.0e+00)
+004.717 .... 16 packets received, 7728 bps, 96.60%, Err 0 (0.0e+00)
+006.832 .... 24 packets received, 7734 bps, 96.68%, Err 0 (0.0e+00)
+008.935 .... 32 packets received, 7748 bps, 96.86%, Err 0 (0.0e+00)
+011.048 .... 40 packets received, 7750 bps, 96.87%, Err 0 (0.0e+00)
+013.164 .... 48 packets received, 7748 bps, 96.86%, Err 0 (0.0e+00)
+015.267 .... 56 packets received, 7754 bps, 96.93%, Err 0 (0.0e+00)
+017.391 .... 64 packets received, 7749 bps, 96.87%, Err 0 (0.0e+00)
+019.494 .... 72 packets received, 7754 bps, 96.92%, Err 0 (0.0e+00)
+027.401 .... 79 packets received, 6009 bps, 75.12%, Err 2 (9.4e-06)
+030.568 .... 98 packets received, 6670 bps, 83.37%, Err 3 (1.3e-05)
+032.677 .... 109 packets received, 6933 bps, 86.66%, Err 3 (1.2e-05)
+034.796 .... 117 packets received, 6982 bps, 87.28%, Err 3 (1.1e-05)
+036.930 .... 124 packets received, 6967 bps, 87.08%, Err 4 (1.4e-05)
+039.038 .... 132 packets received, 7011 bps, 87.63%, Err 4 (1.3e-05)
+041.134 .... 140 packets received, 7052 bps, 88.15%, Err 4 (1.2e-05)

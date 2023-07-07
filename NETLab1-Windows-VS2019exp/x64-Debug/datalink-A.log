@@ -1,0 +1,30 @@
+000.000 =============================================================
+000.000                     Station A                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-05
+000.000 Log file "datalink-A.log", TCP port 59144, debug mask 0x00
+000.000 Station A is waiting for station B on TCP port 59144 ... Done.
+000.211 New epoch: Thu Jun  9 17:56:26 2022
+000.211 =================================================================
+000.211 
+000.211 Designed by Zheng Yuheng, build: May  2 2022  22:07:41
+003.704 .... 4 packets received, 3392 bps, 42.40%, Err 1 (4.7e-05)
+005.787 .... 16 packets received, 7285 bps, 91.06%, Err 1 (2.6e-05)
+007.909 .... 24 packets received, 7425 bps, 92.81%, Err 1 (1.8e-05)
+010.004 .... 32 packets received, 7520 bps, 94.00%, Err 1 (1.4e-05)
+012.120 .... 40 packets received, 7563 bps, 94.54%, Err 1 (1.1e-05)
+014.254 .... 48 packets received, 7582 bps, 94.78%, Err 1 (9.5e-06)
+016.344 .... 56 packets received, 7618 bps, 95.22%, Err 1 (8.2e-06)
+018.478 .... 64 packets received, 7625 bps, 95.32%, Err 1 (7.2e-06)
+020.599 .... 72 packets received, 7636 bps, 95.45%, Err 1 (6.4e-06)
+022.702 .... 80 packets received, 7651 bps, 95.64%, Err 1 (5.8e-06)
+024.814 .... 88 packets received, 7661 bps, 95.76%, Err 1 (5.3e-06)
+026.921 .... 96 packets received, 7670 bps, 95.88%, Err 1 (4.8e-06)
+029.071 .... 104 packets received, 7667 bps, 95.83%, Err 1 (4.5e-06)
+031.169 .... 111 packets received, 7608 bps, 95.10%, Err 2 (8.3e-06)
+033.288 .... 119 packets received, 7616 bps, 95.20%, Err 2 (7.8e-06)
+035.377 .... 127 packets received, 7630 bps, 95.38%, Err 3 (1.1e-05)
+037.528 .... 134 packets received, 7573 bps, 94.66%, Err 3 (1.0e-05)
+039.605 .... 142 packets received, 7590 bps, 94.87%, Err 3 (9.7e-06)
+041.679 TCP Disconnected.
